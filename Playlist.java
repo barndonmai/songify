@@ -1,7 +1,3 @@
-//Brandon Mai
-//501156284
-//Section 4
-
 import java.util.ArrayList;
 
 /*
